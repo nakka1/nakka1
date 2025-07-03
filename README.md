@@ -1,6 +1,6 @@
 
-<h1 align="center">👨‍💻 Alexandre Oliveira Silva Santos</h1>
-<p align="center">🚀 Engenheiro da Computação · 🧠 Computação Quântica · 🦾 Automação</p>
+<h1 align="center">👨‍💻 Alexandre Santos</h1>
+<p align="center">🚀 Engenheiro da Computação / Computing Engineer · 🧠 Computação Quântica / Quantum Computing · 🦾 Automação / Automation</p>
 
 ---
 
@@ -20,7 +20,6 @@ Sou estudante de Engenharia da Computação no Centro Universitário Jorge Amado
 - 💡 **Simulações e algoritmos híbridos** para supercomputadores com GPUs
 - 🧠 **Inteligência Artificial**, com experiência no uso de **PennyLane** e **PyTorch** para circuitos variacionais, autoencoders quânticos e otimizações híbridas
 - 🔬 **Pesquisa acadêmica** com publicações nacionais e participação em simpósios e congressos
-- 🎮 **Projetos interativos** com Arduino e sistemas embarcados
 
 Atualmente trabalho com repositórios privados, desenvolvendo soluções avançadas para aplicações quânticas, simulações e otimização de algoritmos.
 
@@ -34,7 +33,6 @@ I'm a Computer Engineering undergraduate student at Centro Universitário Jorge 
 - 💡 **Hybrid algorithms and simulations** for GPU-powered supercomputers
 - 🧠 **Artificial Intelligence**, using **PennyLane** and **PyTorch** to develop variational circuits, quantum autoencoders, and hybrid optimization strategies
 - 🔬 **Academic research** with national publications and participation in scientific conferences
-- 🎮 **Interactive projects** using Arduino and embedded systems
 
 My current contributions are within **private repositories**, supporting enterprise solutions in quantum simulations, algorithm optimization, and embedded hardware design.
 
@@ -64,7 +62,7 @@ Google Cloud | Google Colab | AWS (básico)
 ## 🧪 Destaques
 
 📝 Artigo publicado em várias revistas científicas na área da robótica, computação quântica e saúde  
-🧠 Apresentações técnicas sobre qubits de Majorana, compressão quântica e circuitos VQE  
+🧠 Apresentações técnicas sobre qubits de Majorana, compressão quântica e circuitos quânticos variados  
 🎓 Workshops com empresas como Womanium, IBM Quantum, NVIDIA e QuEra  
 💻 Experiência em algoritmos de otimização clássica acoplados a circuitos quânticos  
 
@@ -73,6 +71,6 @@ Google Cloud | Google Colab | AWS (básico)
 ## 🧪 Highlights
 
 📝 Published papers in several scientific journals in the fields of robotics, quantum computing, and healthcare.  
-🧠 Technical presentations on Majorana qubits, quantum data compression, and VQE circuits  
+🧠 Technical presentations on Majorana qubits, quantum data compression, and various quantum circuits  
 🎓 Workshops attended with companies such as Womanium, IBM Quantum, NVIDIA, and QuEra  
 💻 Experience with classical optimization algorithms coupled with quantum circuits  
