@@ -48,7 +48,7 @@ Python | C++ | C | Bash | Markdown
 Qiskit | CUDA-Q | Qiskit Metal | HHL | VQE | PennyLane
 
 🤖 Inteligência Artificial / AI:
-PyTorch | Autoencoders Quânticos | Otimização Clássico-Quântica
+PyTorch | TensowFlow | PennyLane |Autoencoders Quânticos | Otimização Clássico-Quântica
 
 🛠️ Ferramentas / Tools:
 Linux | Git | GitHub | LaTeX | OpenCV | Arduino | Pthreads | CUDA
