@@ -45,16 +45,16 @@ My current contributions are within **private repositories**, supporting enterpr
 Python | C++ | C | Bash | Markdown
 
 ⚛️ Quântico / Quantum:
-Qiskit | CUDA-Q | Qiskit Metal | HHL | VQE | PennyLane
+Qiskit | CUDA-Q | Qiskit Metal | PennyLane
 
-🤖 Inteligência Artificial / AI:
-PyTorch | TensowFlow | PennyLane |Autoencoders Quânticos | Otimização Clássico-Quântica
+🤖 AI / ML:
+PyTorch | TensowFlow | PennyLane | Autoencoders Quânticos | Otimização Clássico-Quântica
 
 🛠️ Ferramentas / Tools:
-Linux | Git | GitHub | LaTeX | OpenCV | Arduino | Pthreads | CUDA
+Linux | Git | GitHub | LaTeX | OpenCV | Arduino | CUDA
 
 ☁️ Nuvem / Cloud:
-Google Cloud | Google Colab | AWS (básico)
+Google Cloud | Google Colab | AWS
 ```
 
 ---
