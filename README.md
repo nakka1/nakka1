@@ -46,7 +46,6 @@ Part of my LAQCC work lives in private repositories; my public projects are list
 | Projeto / Project | Descrição / Description |
 | --- | --- |
 | [**ORION-Q**](https://github.com/nakka1/Orion-Q) | Plataforma de pesquisa para controle de redes quânticas (meu TCC): emaranhamento, purificação BBPSSW, TF-QKD, enlaces por satélite e controladores de ML opcionais. · Research platform for quantum-network control (my undergraduate thesis), with entanglement, BBPSSW purification, TF-QKD, satellite links and optional ML controllers. |
-| [**ChipLab**](https://github.com/nakka1/chiplab) | Projeto integrador de Qualidade de Produto de Software (líder da equipe). · Software-quality course project (team lead). |
 | **E.V.A.** *(em desenvolvimento / in development)* | Assistente de IA local-first, com inferência no próprio hardware e wearable próprio, sem depender de APIs de terceiros. · Local-first AI assistant with on-device inference and a custom wearable, independent of third-party APIs. |
 
 ---
