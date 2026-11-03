@@ -1,40 +1,53 @@
 
 <h1 align="center">👨‍💻 Alexandre Santos</h1>
-<p align="center">🚀 Engenheiro da Computação / Computing Engineer · 🧠 Computação Quântica / Quantum Computing · 🦾 Automação / Automation</p>
+<p align="center">🚀 Pesquisador / Researcher @ LAQCC · ⚛️ Computação Quântica / Quantum Computing · 🧠 Inteligência Artificial / AI</p>
 
 ---
 
 <p align="center">
   <a href="mailto:alexandreoliversan1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/alexandre-oliveira-a529a1241"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/alexandreoliversan"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/nakka1"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="http://lattes.cnpq.br/5517445455728374"><img src="https://img.shields.io/badge/Lattes-005A9C?style=for-the-badge&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 🇧🇷 Sobre mim
 
-Sou estudante de Engenharia da Computação no Centro Universitário Jorge Amado (conclusão prevista: 2026). Atuo como pesquisador em PD&I com foco em:
+Sou estudante de Engenharia da Computação no Centro Universitário Jorge Amado (conclusão prevista: 2026) e pesquisador no **Latin America Quantum Computing Center (LAQCC)**, SENAI CIMATEC, desde 2024. Meu foco é a interseção entre **IA e computação quântica**:
 
-- ⚛️ **Computação Quântica** (Qiskit, CUDA-Q, Qiskit Metal)
-- 💡 **Simulações e algoritmos híbridos** para supercomputadores com GPUs
-- 🧠 **Inteligência Artificial**, com experiência no uso de **PennyLane** e **PyTorch** para circuitos variacionais, autoencoders quânticos e otimizações híbridas
-- 🔬 **Pesquisa acadêmica** com publicações nacionais e participação em simpósios e congressos
+- ⚛️ **Redes quânticas**: controle de redes, destilação de emaranhamento, repetidores e QKD
+- 🤖 **Machine learning para sistemas quânticos**: aprendizado por reforço para roteamento e controle, detecção de ataques em QKD
+- 🧠 **Inteligência Artificial**: generalização sob ruído e escassez de dados, modelos quantizados, aprendizado local/neuromórfico e inferência local de LLMs
+- 💡 **Simulação quântica** em GPU com CUDA-Q e C++ para supercomputadores
+- 🔬 **Pesquisa acadêmica**, com artigo aceito e apresentações em simpósios e congressos
 
-Atualmente trabalho com repositórios privados, desenvolvendo soluções avançadas para aplicações quânticas, simulações e otimização de algoritmos.
+Parte do meu trabalho no LAQCC fica em repositórios privados; meus projetos públicos estão abaixo.
 
 ---
 
 ## 🇺🇸 About me
 
-I'm a Computer Engineering undergraduate student at Centro Universitário Jorge Amado (expected graduation: 2026). I work in R&D with a focus on:
+I'm a Computer Engineering undergraduate at Centro Universitário Jorge Amado (expected graduation: 2026) and a researcher at the **Latin America Quantum Computing Center (LAQCC)**, SENAI CIMATEC, since 2024. I work where **AI and quantum computing** meet:
 
-- ⚛️ **Quantum Computing** (Qiskit, CUDA-Q, Qiskit Metal)
-- 💡 **Hybrid algorithms and simulations** for GPU-powered supercomputers
-- 🧠 **Artificial Intelligence**, using **PennyLane** and **PyTorch** to develop variational circuits, quantum autoencoders, and hybrid optimization strategies
-- 🔬 **Academic research** with national publications and participation in scientific conferences
+- ⚛️ **Quantum networks**: network control, entanglement distillation, repeaters and QKD
+- 🤖 **Machine learning for quantum systems**: reinforcement learning for routing and control, attack detection in QKD
+- 🧠 **Artificial Intelligence**: generalization under noise and data scarcity, quantized models, local/neuromorphic learning and on-device LLM inference
+- 💡 **GPU-accelerated quantum simulation** with CUDA-Q and C++ for supercomputers
+- 🔬 **Academic research**, with an accepted journal paper and talks at symposia and conferences
 
-My current contributions are within **private repositories**, supporting enterprise solutions in quantum simulations, algorithm optimization, and embedded hardware design.
+Part of my LAQCC work lives in private repositories; my public projects are listed below.
+
+---
+
+## 🚀 Projetos / Projects
+
+| Projeto / Project | Descrição / Description |
+| --- | --- |
+| [**ORION-Q**](https://github.com/nakka1/Orion-Q) | Plataforma de pesquisa para controle de redes quânticas (meu TCC): emaranhamento, purificação BBPSSW, TF-QKD, enlaces por satélite e controladores de ML opcionais. · Research platform for quantum-network control (my undergraduate thesis), with entanglement, BBPSSW purification, TF-QKD, satellite links and optional ML controllers. |
+| [**ChipLab**](https://github.com/nakka1/chiplab) | Projeto integrador de Qualidade de Produto de Software (líder da equipe). · Software-quality course project (team lead). |
+| **E.V.A.** *(em desenvolvimento / in development)* | Assistente de IA local-first, com inferência no próprio hardware e wearable próprio, sem depender de APIs de terceiros. · Local-first AI assistant with on-device inference and a custom wearable, independent of third-party APIs. |
 
 ---
 
@@ -42,16 +55,16 @@ My current contributions are within **private repositories**, supporting enterpr
 
 ```bash
 💻 Linguagens / Languages:
-Python | C++ | C | Bash | Markdown
+Python | C++ | C | JavaScript | Bash | Markdown
 
 ⚛️ Quântico / Quantum:
-Qiskit | CUDA-Q | Qiskit Metal | PennyLane
+Qiskit | Qiskit Aer | CUDA-Q | Qiskit Metal | PennyLane | SeQUeNCe | IBM Quantum
 
 🤖 AI / ML:
-PyTorch | TensowFlow | PennyLane | Autoencoders Quânticos | Otimização Clássico-Quântica
+PyTorch | JAX | TensorFlow | scikit-learn | Aprendizado por Reforço / Reinforcement Learning | Autoencoders Quânticos | Otimização Clássico-Quântica
 
 🛠️ Ferramentas / Tools:
-Linux | Git | GitHub | LaTeX | OpenCV | Arduino | CUDA
+Linux | Git | GitHub | LaTeX | OpenCV | ROS | Arduino | CUDA | Qt
 
 ☁️ Nuvem / Cloud:
 Google Cloud | Google Colab | AWS
@@ -61,19 +74,21 @@ Google Cloud | Google Colab | AWS
 
 ## 🧪 Destaques
 
-📝 Artigo publicado em várias revistas científicas na área da robótica, computação quântica e saúde  
-🧠 Apresentações técnicas sobre qubits de Majorana, compressão quântica e circuitos quânticos variados  
+📝 Artigo aceito na *Revista Brasileira de Ensino de Física* (tutorial sobre o algoritmo quântico HHL)  
+⚛️ Pesquisador no LAQCC / QuIIN – SENAI CIMATEC desde 2024  
+🧠 Apresentações técnicas sobre qubits de Majorana, compressão quântica, simulação quântica em GPU e robótica  
 🎓 Workshops com empresas como Womanium, IBM Quantum, NVIDIA e QuEra  
-💻 Experiência em algoritmos de otimização clássica acoplados a circuitos quânticos  
+💻 Experiência com hardware quântico real da IBM e algoritmos de otimização clássica acoplados a circuitos quânticos  
 
 ---
 
 ## 🧪 Highlights
 
-📝 Published papers in several scientific journals in the fields of robotics, quantum computing, and healthcare.  
-🧠 Technical presentations on Majorana qubits, quantum data compression, and various quantum circuits  
-🎓 Workshops attended with companies such as Womanium, IBM Quantum, NVIDIA, and QuEra  
-💻 Experience with classical optimization algorithms coupled with quantum circuits  
+📝 Accepted paper in *Revista Brasileira de Ensino de Física* (tutorial on the HHL quantum algorithm)  
+⚛️ Researcher at LAQCC / QuIIN – SENAI CIMATEC since 2024  
+🧠 Technical presentations on Majorana qubits, quantum data compression, GPU quantum simulation and robotics  
+🎓 Workshops attended with companies such as Womanium, IBM Quantum, NVIDIA and QuEra  
+💻 Experience with real IBM quantum hardware and classical optimization algorithms coupled with quantum circuits  
 
 ---
 
