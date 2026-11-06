@@ -27,7 +27,7 @@
 nakka1@laqcc:~$ cat sobre_mim.txt
 ```
 
-Sou estudante de Engenharia da Computação no Centro Universitário Jorge Amado (conclusão prevista: 2026) e pesquisador no **Latin America Quantum Computing Center (LAQCC)**, SENAI CIMATEC, desde 2024. Meu foco é a interseção entre **IA e computação quântica**:
+Sou estudante de Engenharia da Computação e pesquisador no **Latin America Quantum Computing Center (LAQCC)**, SENAI CIMATEC, desde 2024. Meu foco é a interseção entre **IA e computação quântica**:
 
 - `▸` **Redes quânticas**: controle de redes, destilação de emaranhamento, repetidores e QKD
 - `▸` **Machine learning para sistemas quânticos**: aprendizado por reforço para roteamento e controle, detecção de ataques em QKD
@@ -45,7 +45,7 @@ Sou estudante de Engenharia da Computação no Centro Universitário Jorge Amado
 nakka1@laqcc:~$ cat about_me.txt
 ```
 
-I'm a Computer Engineering undergraduate at Centro Universitário Jorge Amado (expected graduation: 2026) and a researcher at the **Latin America Quantum Computing Center (LAQCC)**, SENAI CIMATEC, since 2024. I work where **AI and quantum computing** meet:
+I'm a Computer Engineering undergraduate and a researcher at the **Latin America Quantum Computing Center (LAQCC)**, SENAI CIMATEC, since 2024. I work where **AI and quantum computing** meet:
 
 - `▸` **Quantum networks**: network control, entanglement distillation, repeaters and QKD
 - `▸` **Machine learning for quantum systems**: reinforcement learning for routing and control, attack detection in QKD
