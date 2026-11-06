@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="86" viewBox="0 0 900 86" role="img" aria-label="SOBRE_MIM // PT-BR">
+  <defs>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF2A6D"/>
+      <stop offset="0.5" stop-color="#D300C5"/>
+      <stop offset="1" stop-color="#05D9E8"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#ffffff" opacity="0.05"/>
+    </pattern>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#05D9E8" stroke-opacity="0.07"/>
+    </pattern>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <clipPath id="clip"><polygon points="22,4 896,4 896,62 874,82 4,82 4,24"/></clipPath>
+  <polygon points="22,4 896,4 896,62 874,82 4,82 4,24" fill="#0D0221"/>
+  <g clip-path="url(#clip)">
+    <rect width="900" height="86" fill="url(#grid)"/>
+    <rect width="900" height="86" fill="url(#scan)"/>
+    <rect x="-260" y="0" width="240" height="86" fill="url(#sweep)">
+      <animate attributeName="x" values="-260;920" dur="5s" begin="0.6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <polygon points="22,4 896,4 896,62 874,82 4,82 4,24" fill="none" stroke="url(#neon)" stroke-width="2" filter="url(#glow)"/>
+  <polygon points="28,0 120,0 112,8 20,8" fill="#FF2A6D"/>
+  <rect x="790" y="74" width="80" height="4" fill="#05D9E8"/>
+
+  <text x="30" y="52" font-family="'Fira Code','JetBrains Mono','Cascadia Code',Consolas,'DejaVu Sans Mono','Courier New',monospace" font-size="20" font-weight="700" fill="#F9F002" filter="url(#glow)">[0x01]</text>
+
+  <g font-family="'Fira Code','JetBrains Mono','Cascadia Code',Consolas,'DejaVu Sans Mono','Courier New',monospace" font-size="30" font-weight="800" letter-spacing="2">
+    <text x="128" y="54" fill="#FF2A6D" opacity="0.85">SOBRE_MIM<animateTransform attributeName="transform" type="translate" dur="5s" repeatCount="indefinite"
+          keyTimes="0;0.90;0.91;0.93;0.94;0.96;1" values="0 0;0 0;-4 0;3 0;-4 -1;0 0;0 0"/></text>
+    <text x="132" y="54" fill="#05D9E8" opacity="0.85">SOBRE_MIM<animateTransform attributeName="transform" type="translate" dur="5s" repeatCount="indefinite"
+          keyTimes="0;0.90;0.91;0.93;0.94;0.96;1" values="0 0;0 0;4 0;-3 0;4 -1;0 0;0 0"/></text>
+    <text x="130" y="54" fill="#ffffff">SOBRE_MIM</text>
+  </g>
+
+  <text x="876" y="32" text-anchor="end" font-family="'Fira Code','JetBrains Mono','Cascadia Code',Consolas,'DejaVu Sans Mono','Courier New',monospace" font-size="11" fill="#FF2A6D" opacity="0.9">SYS::ONLINE ▮ NODE_01</text>
+  <text x="876" y="56" text-anchor="end" font-family="'Fira Code','JetBrains Mono','Cascadia Code',Consolas,'DejaVu Sans Mono','Courier New',monospace" font-size="16" font-weight="700" fill="#05D9E8">// PT-BR</text>
+  <g>
+    <rect x="30" y="64" width="1" height="8" fill="#05D9E8" opacity="0.55"/>
+    <rect x="36" y="64" width="1" height="8" fill="#05D9E8" opacity="0.55"/>
+    <rect x="39" y="64" width="1" height="8" fill="#05D9E8" opacity="0.55"/>
+    <rect x="42" y="64" width="1" height="8" fill="#05D9E8" opacity="0.55"/>
+    <rect x="48" y="64" width="1" height="8" fill="#05D9E8" opacity="0.55"/>
+    <rect x="51" y="64" width="1" height="8" fill="#05D9E8" opacity="0.55"/>
+    <rect x="54" y="64" width="1" height="8" fill="#05D9E8" opacity="0.55"/>
+    <rect x="60" y="64" width="1" height="8" fill="#05D9E8" opacity="0.55"/>
+    <rect x="63" y="64" width="1" height="8" fill="#05D9E8" opacity="0.55"/>
+    <rect x="66" y="64" width="1" height="8" fill="#05D9E8" opacity="0.55"/>
+    <rect x="72" y="64" width="1" height="8" fill="#05D9E8" opacity="0.55"/>
+    <rect x="75" y="64" width="1" height="8" fill="#05D9E8" opacity="0.55"/>
+    <rect x="78" y="64" width="1" height="8" fill="#05D9E8" opacity="0.55"/>
+  </g>
+</svg>

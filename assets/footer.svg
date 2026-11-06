@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" role="img" aria-label="Conexão encerrada // End of transmission">
+  <defs>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF2A6D"/>
+      <stop offset="0.5" stop-color="#D300C5"/>
+      <stop offset="1" stop-color="#05D9E8"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#ffffff" opacity="0.05"/>
+    </pattern>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#05D9E8" stroke-opacity="0.07"/>
+    </pattern>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <clipPath id="clip"><polygon points="30,6 896,6 896,116 864,146 4,146 4,36"/></clipPath>
+  <polygon points="30,6 896,6 896,116 864,146 4,146 4,36" fill="#0D0221"/>
+  <g clip-path="url(#clip)">
+    <rect width="900" height="150" fill="url(#grid)"/>
+    <rect width="900" height="150" fill="url(#scan)"/>
+    <rect x="-260" y="0" width="240" height="150" fill="url(#sweep)">
+      <animate attributeName="x" values="-260;920" dur="6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <polygon points="30,6 896,6 896,116 864,146 4,146 4,36" fill="none" stroke="url(#neon)" stroke-width="2" filter="url(#glow)"/>
+
+  <text x="40" y="40" font-family="'Fira Code','JetBrains Mono','Cascadia Code',Consolas,'DejaVu Sans Mono','Courier New',monospace" font-size="15" fill="#00FF9F">nakka1@laqcc:~$ <tspan fill="#ffffff">logout</tspan></text>
+
+  <g font-family="'Fira Code','JetBrains Mono','Cascadia Code',Consolas,'DejaVu Sans Mono','Courier New',monospace" font-size="40" font-weight="800" letter-spacing="4" text-anchor="middle">
+    <text x="448" y="92" fill="#FF2A6D" opacity="0.85">CONEXÃO ENCERRADA<animateTransform attributeName="transform" type="translate" dur="5s" repeatCount="indefinite"
+          keyTimes="0;0.90;0.91;0.93;0.94;0.96;1" values="0 0;0 0;-5 0;4 0;-5 -1;0 0;0 0"/></text>
+    <text x="452" y="92" fill="#05D9E8" opacity="0.85">CONEXÃO ENCERRADA<animateTransform attributeName="transform" type="translate" dur="5s" repeatCount="indefinite"
+          keyTimes="0;0.90;0.91;0.93;0.94;0.96;1" values="0 0;0 0;5 0;-4 0;5 -1;0 0;0 0"/></text>
+    <text x="450" y="92" fill="#ffffff">CONEXÃO ENCERRADA</text>
+  </g>
+
+  <text x="450" y="124" text-anchor="middle" font-family="'Fira Code','JetBrains Mono','Cascadia Code',Consolas,'DejaVu Sans Mono','Courier New',monospace" font-size="16" font-weight="700" fill="#F9F002" letter-spacing="3">// END OF TRANSMISSION</text>
+  <rect x="598" y="111" width="10" height="16" fill="#F9F002">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <polygon points="40,146 140,146 132,140 48,140" fill="#FF2A6D"/>
+  <rect x="760" y="10" width="110" height="4" fill="#05D9E8"/>
+</svg>
