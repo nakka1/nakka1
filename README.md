@@ -21,13 +21,34 @@
 
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%"></p>
 
+<<<<<<< HEAD
+=======
+<p align="center"><img src="./assets/header-sobre-mim.svg" alt="Sobre mim" width="100%"></p>
+
+```console
+nakka1@laqcc:~$ cat sobre_mim.txt
+```
+
+Sou estudante de Engenharia da Computação e pesquisador no **Latin America Quantum Computing Center (LAQCC)**, SENAI CIMATEC, desde 2024. Meu foco é a interseção entre **IA e computação quântica**:
+
+- `▸` **Redes quânticas**: controle de redes, destilação de emaranhamento, repetidores e QKD
+- `▸` **Machine learning para sistemas quânticos**: aprendizado por reforço para roteamento e controle, detecção de ataques em QKD
+- `▸` **Inteligência Artificial**: generalização sob ruído e escassez de dados, modelos quantizados, aprendizado local/neuromórfico e inferência local de LLMs
+- `▸` **Simulação quântica** em GPU com CUDA-Q e C++ para supercomputadores
+- `▸` **Pesquisa acadêmica**, com artigo aceito e apresentações em simpósios e congressos
+
+> `[!]` Parte do meu trabalho no LAQCC fica em repositórios privados; meus projetos públicos estão abaixo.
+
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"></p>
+
+>>>>>>> 51db0f44883bd3ba3d0b706cb01ae5e95998133e
 <p align="center"><img src="./assets/header-about-me.svg" alt="About me" width="100%"></p>
 
 ```console
 nakka1@laqcc:~$ whoami
 ```
 
-I'm a Computer Engineering undergraduate at Centro Universitário Jorge Amado (expected graduation: 2026) and a researcher at the **Latin America Quantum Computing Center (LAQCC)**, SENAI CIMATEC, since 2024. I work where **AI and quantum computing** meet:
+I'm a Computer Engineering undergraduate and a researcher at the **Latin America Quantum Computing Center (LAQCC)**, SENAI CIMATEC, since 2024. I work where **AI and quantum computing** meet:
 
 - `▸` **Quantum networks**: network control, entanglement distillation, repeaters and QKD
 - `▸` **Machine learning for quantum systems**: reinforcement learning for routing and control, attack detection in QKD
