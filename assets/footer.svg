@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" role="img" aria-label="Conexão encerrada // End of transmission">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" role="img" aria-label="Connection terminated // End of transmission">
   <defs>
     <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#FF2A6D"/>
@@ -35,11 +35,11 @@
   <text x="40" y="40" font-family="'Fira Code','JetBrains Mono','Cascadia Code',Consolas,'DejaVu Sans Mono','Courier New',monospace" font-size="15" fill="#00FF9F">nakka1@laqcc:~$ <tspan fill="#ffffff">logout</tspan></text>
 
   <g font-family="'Fira Code','JetBrains Mono','Cascadia Code',Consolas,'DejaVu Sans Mono','Courier New',monospace" font-size="40" font-weight="800" letter-spacing="4" text-anchor="middle">
-    <text x="448" y="92" fill="#FF2A6D" opacity="0.85">CONEXÃO ENCERRADA<animateTransform attributeName="transform" type="translate" dur="5s" repeatCount="indefinite"
+    <text x="448" y="92" fill="#FF2A6D" opacity="0.85">CONNECTION TERMINATED<animateTransform attributeName="transform" type="translate" dur="5s" repeatCount="indefinite"
           keyTimes="0;0.90;0.91;0.93;0.94;0.96;1" values="0 0;0 0;-5 0;4 0;-5 -1;0 0;0 0"/></text>
-    <text x="452" y="92" fill="#05D9E8" opacity="0.85">CONEXÃO ENCERRADA<animateTransform attributeName="transform" type="translate" dur="5s" repeatCount="indefinite"
+    <text x="452" y="92" fill="#05D9E8" opacity="0.85">CONNECTION TERMINATED<animateTransform attributeName="transform" type="translate" dur="5s" repeatCount="indefinite"
           keyTimes="0;0.90;0.91;0.93;0.94;0.96;1" values="0 0;0 0;5 0;-4 0;5 -1;0 0;0 0"/></text>
-    <text x="450" y="92" fill="#ffffff">CONEXÃO ENCERRADA</text>
+    <text x="450" y="92" fill="#ffffff">CONNECTION TERMINATED</text>
   </g>
 
   <text x="450" y="124" text-anchor="middle" font-family="'Fira Code','JetBrains Mono','Cascadia Code',Consolas,'DejaVu Sans Mono','Courier New',monospace" font-size="16" font-weight="700" fill="#F9F002" letter-spacing="3">// END OF TRANSMISSION</text>

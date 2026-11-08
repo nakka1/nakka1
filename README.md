@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="./assets/banner.gif" alt="alexandre" width="820">
+  <img src="./assets/banner.png" alt="alexandre" width="820">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF2A6D&center=true&vCenter=true&width=720&lines=%3E+booting+alexandre.sys+...;Quantum+Computing+Researcher+%40+LAQCC;Redes+Qu%C3%A2nticas+%2F%2F+Quantum+Networks;AI+%C3%97+Quantum+Computing" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF2A6D&center=true&vCenter=true&width=720&lines=%3E+booting+alexandre.sys+...;Quantum+Computing+Researcher+%40+LAQCC;Quantum+Networks+%2F%2F+Machine+Learning;AI+%C3%97+Quantum+Computing" alt="typing"/>
 </p>
 
 <h1 align="center">▓▒░ ALEXANDRE SANTOS ░▒▓</h1>
 
 <p align="center">
-  <code>PESQUISADOR / RESEARCHER @ LAQCC</code> ⟨◆⟩ <code>COMPUTAÇÃO QUÂNTICA / QUANTUM COMPUTING</code> ⟨◆⟩ <code>INTELIGÊNCIA ARTIFICIAL / AI</code>
+  <code>RESEARCHER @ LAQCC</code> ⟨◆⟩ <code>QUANTUM COMPUTING</code> ⟨◆⟩ <code>ARTIFICIAL INTELLIGENCE</code>
 </p>
 
 <p align="center">
@@ -21,28 +21,10 @@
 
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%"></p>
 
-<p align="center"><img src="./assets/header-sobre-mim.svg" alt="Sobre mim" width="100%"></p>
-
-```console
-nakka1@laqcc:~$ cat sobre_mim.txt
-```
-
-Sou estudante de Engenharia da Computação no Centro Universitário Jorge Amado (conclusão prevista: 2026) e pesquisador no **Latin America Quantum Computing Center (LAQCC)**, SENAI CIMATEC, desde 2024. Meu foco é a interseção entre **IA e computação quântica**:
-
-- `▸` **Redes quânticas**: controle de redes, destilação de emaranhamento, repetidores e QKD
-- `▸` **Machine learning para sistemas quânticos**: aprendizado por reforço para roteamento e controle, detecção de ataques em QKD
-- `▸` **Inteligência Artificial**: generalização sob ruído e escassez de dados, modelos quantizados, aprendizado local/neuromórfico e inferência local de LLMs
-- `▸` **Simulação quântica** em GPU com CUDA-Q e C++ para supercomputadores
-- `▸` **Pesquisa acadêmica**, com artigo aceito e apresentações em simpósios e congressos
-
-> `[!]` Parte do meu trabalho no LAQCC fica em repositórios privados; meus projetos públicos estão abaixo.
-
-<p align="center"><img src="./assets/divider.svg" alt="" width="100%"></p>
-
 <p align="center"><img src="./assets/header-about-me.svg" alt="About me" width="100%"></p>
 
 ```console
-nakka1@laqcc:~$ cat about_me.txt
+nakka1@laqcc:~$ whoami
 ```
 
 I'm a Computer Engineering undergraduate at Centro Universitário Jorge Amado (expected graduation: 2026) and a researcher at the **Latin America Quantum Computing Center (LAQCC)**, SENAI CIMATEC, since 2024. I work where **AI and quantum computing** meet:
@@ -57,46 +39,36 @@ I'm a Computer Engineering undergraduate at Centro Universitário Jorge Amado (e
 
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%"></p>
 
-<p align="center"><img src="./assets/header-projetos.svg" alt="Projetos / Projects" width="100%"></p>
+<p align="center"><img src="./assets/header-projects.svg" alt="Projects" width="100%"></p>
 
-| `>_` Projeto / Project | `>_` Descrição / Description |
+| `>_` Project | `>_` Description |
 | --- | --- |
-| [**ORION-Q**](https://github.com/nakka1/Orion-Q)<br>`[ PÚBLICO / PUBLIC ]` | Plataforma de pesquisa para controle de redes quânticas (meu TCC): emaranhamento, purificação BBPSSW, TF-QKD, enlaces por satélite e controladores de ML opcionais. · Research platform for quantum-network control (my undergraduate thesis), with entanglement, BBPSSW purification, TF-QKD, satellite links and optional ML controllers. |
-| **E.V.A.**<br>`[ EM DESENVOLVIMENTO / IN DEVELOPMENT ]` | Assistente de IA local-first, com inferência no próprio hardware e wearable próprio, sem depender de APIs de terceiros. · Local-first AI assistant with on-device inference and a custom wearable, independent of third-party APIs. |
+| [**ORION-Q**](https://github.com/nakka1/Orion-Q)<br>`[ PUBLIC ]` | Research platform for quantum-network control (my undergraduate thesis), with entanglement, BBPSSW purification, TF-QKD, satellite links and optional ML controllers. |
+| **E.V.A.**<br>`[ IN DEVELOPMENT ]` | Local-first AI assistant with on-device inference and a custom wearable, independent of third-party APIs. |
 
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%"></p>
 
-<p align="center"><img src="./assets/header-habilidades.svg" alt="Habilidades / Skills" width="100%"></p>
+<p align="center"><img src="./assets/header-skills.svg" alt="Skills" width="100%"></p>
 
 ```yaml
 # ~/.config/nakka1/arsenal.yml
 
-Linguagens / Languages:
+Languages:
   [Python, C++, C, JavaScript, Bash, Markdown]
 
-Quântico / Quantum:
+Quantum:
   [Qiskit, Qiskit Aer, CUDA-Q, Qiskit Metal, PennyLane, SeQUeNCe, IBM Quantum]
 
 AI / ML:
-  [PyTorch, JAX, TensorFlow, scikit-learn, Aprendizado por Reforço / Reinforcement Learning,
-   Autoencoders Quânticos, Otimização Clássico-Quântica]
+  [PyTorch, JAX, TensorFlow, scikit-learn, Reinforcement Learning,
+   Quantum Autoencoders, Hybrid Classical-Quantum Optimization]
 
-Ferramentas / Tools:
+Tools:
   [Linux, Git, GitHub, LaTeX, OpenCV, ROS, Arduino, CUDA, Qt]
 
-Nuvem / Cloud:
+Cloud:
   [Google Cloud, Google Colab, AWS]
 ```
-
-<p align="center"><img src="./assets/divider.svg" alt="" width="100%"></p>
-
-<p align="center"><img src="./assets/header-destaques.svg" alt="Destaques" width="100%"></p>
-
-`[ PAPER ]` Artigo aceito na *Revista Brasileira de Ensino de Física* (tutorial sobre o algoritmo quântico HHL)  
-`[ LAB   ]` Pesquisador no LAQCC / QuIIN – SENAI CIMATEC desde 2024  
-`[ TALKS ]` Apresentações técnicas sobre qubits de Majorana, compressão quântica, simulação quântica em GPU e robótica  
-`[ LEARN ]` Workshops com empresas como Womanium, IBM Quantum, NVIDIA e QuEra  
-`[ QPU   ]` Experiência com hardware quântico real da IBM e algoritmos de otimização clássica acoplados a circuitos quânticos  
 
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%"></p>
 
@@ -116,4 +88,4 @@ Nuvem / Cloud:
 
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%"></p>
 
-<p align="center"><img src="./assets/footer.svg" alt="Conexão encerrada // End of transmission" width="100%"></p>
+<p align="center"><img src="./assets/footer.svg" alt="Connection terminated // End of transmission" width="100%"></p>
