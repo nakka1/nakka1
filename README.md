@@ -92,10 +92,10 @@ Cloud:
 <p align="center"><img src="./assets/header-highlights.svg" alt="Highlights" width="100%"></p>
 
 `[ PAPER ]` Accepted paper in *Revista Brasileira de Ensino de Física* (tutorial on the HHL quantum algorithm)  
-`[ LAB   ]` Researcher at LAQCC / QuIIN – SENAI CIMATEC since 2024  
-`[ TALKS ]` Technical presentations on Majorana qubits, quantum data compression, GPU quantum simulation and robotics  
+`[  LAB  ]` Researcher at LAQCC / QuIIN – SENAI CIMATEC since 2024  
+`[ TALKS ]` Technical presentations on Majorana qubits, quantum data compression, GPU quantum simulation, quantum machine learning and robotics  
 `[ LEARN ]` Workshops attended with companies such as Womanium, IBM Quantum, NVIDIA and QuEra  
-`[ QPU   ]` Experience with real IBM quantum hardware and classical optimization algorithms coupled with quantum circuits  
+`[  QPU  ]` Experience with real IBM quantum hardware and classical optimization algorithms coupled with quantum circuits  
 
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%"></p>
 
