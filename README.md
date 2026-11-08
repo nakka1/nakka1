@@ -60,6 +60,7 @@ Sou estudante de Engenharia da Computação e pesquisador no **Latin America Qua
 | `>_` Project | `>_` Description |
 | --- | --- |
 | [**ORION-Q**](https://github.com/nakka1/Orion-Q)<br>`[ PUBLIC ]` | Research platform for quantum-network control (my undergraduate thesis), with entanglement, BBPSSW purification, TF-QKD, satellite links and optional ML controllers. |
+| [**Nano Qalgos**](https://github.com/nakka1/nano-qalgos)<br>`[ PUBLIC ]` | Quantum algorithms from scratch in one NumPy file: QFT, phase estimation, Grover, Shor, VQE, QAOA and amplitude estimation. Every equation sits next to the code that implements it and is checked numerically. |
 | **E.V.A.**<br>`[ IN DEVELOPMENT ]` | Local-first AI assistant with on-device inference and a custom wearable, independent of third-party APIs. |
 
 <p align="center"><img src="./assets/divider.svg" alt="" width="100%"></p>
